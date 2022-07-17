@@ -1,5 +1,5 @@
 # TECH-GYM
-Progetto in Java "TECH-GYM" - prof. F. Parisi (2018-2019)
+Progetto base in Java "TECH-GYM" - prof. F. Parisi (2018-2019)
 
 ### IDEA:
 TECH-GYM è l’inizio di un’idea di palestra smart e domotica che rappresenta il futuro del fitness mondiale. 
